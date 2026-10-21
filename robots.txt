@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://mark1212444.github.io/beyond-the-ticket/sitemap.xml
+Sitemap: https://alexkvance.github.io/beyond-the-ticket/sitemap.xml
